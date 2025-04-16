@@ -66,12 +66,19 @@ multiple-disease-prediction-system/
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
 └── datasets/                  # All training datasets
+
+
+
+
 📌 Future Improvements
 Add more diseases and expand dataset variety
 
 Integrate with health APIs for real-time data
 
 Deploy on cloud (Heroku, AWS, etc.)
+
+
+
 
 🙌 Acknowledgements
 UCI Machine Learning Repository
