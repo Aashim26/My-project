@@ -44,6 +44,7 @@ All datasets are cleaned and preprocessed before model training.
 
 🚀 How to Run the Project
 
+ streamlit run"C:\Users\91890\Desktop\multiple disease prediction\app.py"
 
 🧠 Model Accuracy (Sample)
 
