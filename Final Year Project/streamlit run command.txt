@@ -1,0 +1,1 @@
+streamlit run"C:\Users\91890\Desktop\multiple disease prediction\app.py"
